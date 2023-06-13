@@ -34,6 +34,7 @@ This is a fork from a minecraft simulator (see bottom)
  - Add blocks:
    * Sea life blocks like coral (blocks, fans, coral)
    * Sea blocks like prismarine (stone, dark, bricks) and sea lanterns
+   * Chests that can store stuff (and can be saved in the saveString)
    * Candles
    * Clay, and bricks
    * Smow, snow blocks, snow grass, powdered snow, and powdered snow in a bucket
