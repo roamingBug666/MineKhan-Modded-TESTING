@@ -6,6 +6,11 @@ This is a fork from a minecraft simulator (see bottom)
  - Add clouds
  - Dungeons with spawners that work and loot chest/s
  - Better gradients and depth to rivers/lakes/oceans
+ - Implement biomes:
+   * Mesa
+   * Decent mountains
+   * Ocean biome
+   * Roofed forest
 **Nether**
  - Add nether mobs
    * Blazes
@@ -28,20 +33,19 @@ This is a fork from a minecraft simulator (see bottom)
  - Up fences's hitbox heights to 1,5
  - Add blocks:
    * Sea life blocks like coral (blocks, fans, coral)
-   * Sea blocks like prismarine (stone, dark, bricks) and sea lanterns (important)
+   * Sea blocks like prismarine (stone, dark, bricks) and sea lanterns
    * Candles
    * Clay, and bricks
    * Smow, snow blocks, snow grass, powdered snow, and powdered snow in a bucket
    * Amethyst
    * Terracotta (all colors)
    * Bamboo (plant, block, door, trapdoor)
- - Implement biomes:
-   * Mesa
-   * Decent mountains
-   * Ocean biome
-   * Roofed forest
+   * Kelp
+   * Sugarcane
+   * Sea pickle
+   * Froglights (yellow, green, purple)
  - Make furnaces, looms, etc. actually rotate
-# The original versions
- - [Hacker1234's minekhan-modded](https://github.com/Hacker1254/MineKhan-Modded)
- - [Thingmaker's minekhan](https://minekhan--thingmaker.repl.co/)
- - [Willard](https://willard.fun/minekhan/)
+# The original code
+ - [Hacker1234's MineKhan-modded](https://github.com/Hacker1254/MineKhan-Modded)
+ - [Thingmaker's MineKhan](https://minekhan--thingmaker.repl.co/)
+ - [Willard's MineKhan](https://willard.fun/minekhan/)
