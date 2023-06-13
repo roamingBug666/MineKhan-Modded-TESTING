@@ -33,10 +33,14 @@ This is a fork from a minecraft simulator (see bottom)
    * Clay, and bricks
    * Smow, snow blocks, snow grass, powdered snow, and powdered snow in a bucket
    * Amethyst
-   * 
+   * Terracotta (all colors)
+   * Bamboo (plant, block, door, trapdoor)
  - Implement biomes:
    * Mesa
    * Decent mountains
+   * Ocean biome
+   * Roofed forest
+ - Make furnaces, looms, etc. actually rotate
 # The original versions
  - [Hacker1234's minekhan-modded](https://github.com/Hacker1254/MineKhan-Modded)
  - [Thingmaker's minekhan](https://minekhan--thingmaker.repl.co/)
