@@ -2,6 +2,7 @@
 This is a fork from a minecraft simulator (see bottom)
 
 # To-Do
+
 **Overworld**
  - Add clouds
  - Dungeons with spawners that work and loot chest/s
@@ -11,6 +12,7 @@ This is a fork from a minecraft simulator (see bottom)
    * Decent mountains
    * Ocean biome
    * Roofed forest
+
 **Nether**
  - Add nether mobs
    * Blazes
@@ -19,9 +21,11 @@ This is a fork from a minecraft simulator (see bottom)
    * Magma cubes (implement the splitting into smaller cubes)
    * Ghasts
    * Maybe piglins, brutes, hoglins, zoglins, etc.
+
 **End**
  - Add it (flatter noise for the top and a steeper noise for the underside)
  - Add the pillars
+
 **Generally**
  - Make mobs 2 blocks tall (no arms/legs yet)
  - Add bread (crafted from 3 wheat)
