@@ -1,9 +1,9 @@
 # MineKhan-Modded-TESTING
 This is a fork from a minecraft simulator (see bottom)
 
-# To-Do
+## To-Do
 
-**Overworld**
+### **Overworld**
  - Add clouds
  - Dungeons with spawners that work and loot chest/s
  - Better gradients and depth to rivers/lakes/oceans
@@ -13,7 +13,7 @@ This is a fork from a minecraft simulator (see bottom)
    * Ocean biome
    * Roofed forest
 
-**Nether**
+### **Nether**
  - Add nether mobs
    * Blazes
    * Endermen
@@ -22,12 +22,14 @@ This is a fork from a minecraft simulator (see bottom)
    * Ghasts
    * Maybe piglins, brutes, hoglins, zoglins, etc.
 
-**End**
+### **End**
  - Add it (flatter noise for the top and a steeper noise for the underside)
  - Add the pillars
+ - Add a ton of endermen
 
-**Generally**
+### **General**
  - Make mobs 2 blocks tall (no arms/legs yet)
+ - Make endermen 3 blocks tall and a better aggro mechanism
  - Add bread (crafted from 3 wheat)
  - Make creepers explode properly
  - Add explosion particles and effects
@@ -35,6 +37,7 @@ This is a fork from a minecraft simulator (see bottom)
  - Pare mobs's jump heights down to 1,25 (jump over blocks with more ease but not over fences)
  - Implement at least rudimentary mob pathfinding
  - Up fences's hitbox heights to 1,5
+ - Limit what forms can different blocks take (fences, slabs, stairs) to shorten the enter cycle and to actually not have glass sta
  - Add blocks:
    * Sea life blocks like coral (blocks, fans, coral)
    * Sea blocks like prismarine (stone, dark, bricks) and sea lanterns
