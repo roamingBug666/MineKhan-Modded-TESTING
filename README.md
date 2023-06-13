@@ -33,6 +33,7 @@ This is a fork from a minecraft simulator (see [bottom](https://github.com/roami
    * Add bonus chest option
  - Make mobs 2 blocks tall (no arms/legs yet)
  - Make endermen 3 blocks tall and a better aggro mechanism
+ - Make mobs actually hurt the player, and spawn them only in >7 light level blocks
  - Add bread (crafted from 3 wheat)
  - Make creepers explode properly
  - Add explosion particles and effects
