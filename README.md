@@ -1,5 +1,5 @@
 # MineKhan-Modded-TESTING
-This is a fork from a minecraft simulator (see bottom)
+This is a fork from a minecraft simulator (see [bottom](https://github.com/roamingBug666/MineKhan-Modded-TESTING/edit/main/README.md#the-original-code))
 
 ## To-Do
 
@@ -12,7 +12,7 @@ This is a fork from a minecraft simulator (see bottom)
    * Decent mountains
    * Ocean biome
    * Roofed forest
-
+   * Bamboo forest
 ### **Nether**
  - Add nether mobs
    * Blazes
@@ -28,11 +28,15 @@ This is a fork from a minecraft simulator (see bottom)
  - Add a ton of endermen
 
 ### **General**
+ - Creation menu:
+   * Add cheats switch
+   * Add bonus chest option
  - Make mobs 2 blocks tall (no arms/legs yet)
  - Make endermen 3 blocks tall and a better aggro mechanism
  - Add bread (crafted from 3 wheat)
  - Make creepers explode properly
  - Add explosion particles and effects
+ - Make exploding TNT ignite (and launch) other TNT inside radius instead of destroying it too
  - Make mobs take block damage like the player (lava, magma, cacti, wither roses, etc.)
  - Pare mobs's jump heights down to 1,25 (jump over blocks with more ease but not over fences)
  - Implement at least rudimentary mob pathfinding
