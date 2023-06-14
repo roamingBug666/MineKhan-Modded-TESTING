@@ -2,7 +2,6 @@
 This is a fork from a minecraft simulator (see [bottom](https://github.com/roamingBug666/MineKhan-Modded-TESTING/edit/main/README.md#the-original-code))
 
 ## To-Do
-
 ### **Overworld**
  - Add clouds
  - Dungeons with spawners that work and loot chest/s
@@ -43,6 +42,7 @@ This is a fork from a minecraft simulator (see [bottom](https://github.com/roami
  - Implement at least rudimentary mob pathfinding
  - Up fences's hitbox heights to 1,5
  - Limit what forms can different blocks take (fences, slabs, stairs) to shorten the enter cycle and to actually not have glass stairs
+ - Have the ability to climb down ladders as well (`SHIFT`)
  - Add blocks:
    * Sea life blocks like coral (blocks, fans, coral)
    * Sea blocks like prismarine (stone, dark, bricks) and sea lanterns
@@ -63,6 +63,7 @@ This is a fork from a minecraft simulator (see [bottom](https://github.com/roami
  - Side torches drop themselves instead of a regular torch
  - Even when there is a stack in the inventory, new items always appear on the hotbar
  - Water sides are visible, especially on chunk borders
+ - If you catch your fall with a ladder, you die anyway when you hop down (no way to climb down)
 # The original code
  - [Hacker1234's MineKhan-modded](https://github.com/Hacker1254/MineKhan-Modded)
  - [Thingmaker's MineKhan](https://minekhan--thingmaker.repl.co/)
