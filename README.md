@@ -42,7 +42,7 @@ This is a fork from a minecraft simulator (see [bottom](https://github.com/roami
  - Pare mobs's jump heights down to 1,25 (jump over blocks with more ease but not over fences)
  - Implement at least rudimentary mob pathfinding
  - Up fences's hitbox heights to 1,5
- - Limit what forms can different blocks take (fences, slabs, stairs) to shorten the enter cycle and to actually not have glass sta
+ - Limit what forms can different blocks take (fences, slabs, stairs) to shorten the enter cycle and to actually not have glass stairs
  - Add blocks:
    * Sea life blocks like coral (blocks, fans, coral)
    * Sea blocks like prismarine (stone, dark, bricks) and sea lanterns
@@ -58,6 +58,11 @@ This is a fork from a minecraft simulator (see [bottom](https://github.com/roami
    * Sea pickle
    * Froglights (yellow, green, purple)
  - Make furnaces, looms, etc. actually rotate
+ - Make leaves despawn when not close to wood
+## Bugs:
+ - Side torches drop themselves instead of a regular torch
+ - Even when there is a stack in the inventory, new items always appear on the hotbar
+ - Water sides are visible, especially on chunk borders
 # The original code
  - [Hacker1234's MineKhan-modded](https://github.com/Hacker1254/MineKhan-Modded)
  - [Thingmaker's MineKhan](https://minekhan--thingmaker.repl.co/)
