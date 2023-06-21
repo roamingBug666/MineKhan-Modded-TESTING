@@ -1,6 +1,7 @@
 # MineKhan-Modded-TESTING
 This is a fork from a minecraft simulator (see [bottom](https://github.com/roamingBug666/MineKhan-Modded-TESTING/edit/main/README.md#the-original-code))
 
+**Please note**: I am working on `index3.html`; the `index2.html` and `index.html` are older versions.
 ## To-Do
 
 ### **General**
