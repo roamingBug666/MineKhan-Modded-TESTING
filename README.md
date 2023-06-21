@@ -14,20 +14,15 @@ This is a fork from a minecraft simulator (see [bottom](https://github.com/roami
  - [ ] STOP THE BOBBING cuz it looks terrible
  - [x] Change release pointer for screenshot to a more accessible key
  - [ ] Implement mob drops
- - [x] Make the rest of the door crafting recipes and foolproof
- - [x] Make the trapdoor crafting recipes and foolproof
- - [X] Make the blocks to ingots/items crafting recipes
- - [x] Foolproof the flint n steel crafting recipe
- - [x] Make the crafting table crafting recipes and foolproof
- - [x] Foolproof the stick crafting recipe
  - [ ] Add the popups to hotbar items too
  - [ ] Implement swords
  - [ ] Implement axes
  - [ ] Implement shovels
+ - [x] Add goldPickaxe to breakTypes
  - [ ] Migrate all sounds to local file for offlineivity, independency, and resources
  - [ ] Make the textures originate from a texture atlas
- - [ ] Make ores spawn in veins - until then they get an x2 spawning chance multiplier
- - [x] netheritePickaxe (Experimental - diamond pick, two iron picks, and two sticks to craft)
+ - [ ] Make ores spawn in veins
+ - [x] 
  - [x] Make skeletons spawn naturally
  - [x] Make spiders spawn naturally
  - [ ] Include height for creeper explosions (mining underground, above they reking your base)
@@ -71,6 +66,15 @@ This is a fork from a minecraft simulator (see [bottom](https://github.com/roami
  - [ ] Make furnaces, looms, etc. actually rotate
  - [ ] Make leaves despawn when not close to wood
  - [ ] Make some items/blocks not appear on the creative inventory (like SW logs)
+### **Crafting**
+ - [x] Make the rest of the door crafting recipes and foolproof
+ - [x] Make the trapdoor crafting recipes and foolproof
+ - [X] Make the blocks to ingots/items crafting recipes
+ - [x] Foolproof the flint n steel crafting recipe
+ - [x] Make the crafting table crafting recipes and foolproof
+ - [x] Foolproof the stick crafting recipe
+ - [ ] Make the furnace crafting recipe
+ - [x] netheritePickaxe (Experimental - diamond pick, two iron picks, and two sticks to craft)
 ### **Overworld**
  - [ ] Add clouds
  - [ ] Dungeons with spawners that work and loot chest/s
